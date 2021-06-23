@@ -8,7 +8,7 @@ void main()
 
 	printf("Hello world\n");
 
-	printf("Git is cool\n");
+	printf("Git is cool");
 
-	printf("This is from the new branch");
+	printf("\nThis is from the new branch");
 }
