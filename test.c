@@ -3,4 +3,6 @@
 void main()
 {
 	printf("This is from git\n");
+
+	printf("Hello git\n");
 }
