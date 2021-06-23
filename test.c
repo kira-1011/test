@@ -7,4 +7,6 @@ void main()
 	printf("Hello git\n");
 
 	printf("Hello world\n");
+
+	printf("Git is cool");
 }
